@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\AccountingOffice\Income-Expense\Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\AccountingOffice\Income-Expense\Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\AccountingOffice\Income-Expense\Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\AccountingOffice\Statement\Expense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\AccountingOffice\Statement\Income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FinancieLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FinancieMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\HR\AddCV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\HR\Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\HR\Recruitment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Car\AddCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Car\DeleteCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Car\EditCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\City\AddCity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\City\DeleteCity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\City\EditCity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Storage\AddStorage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Storage\DeleteStorage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Storage\EditStorage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Storage\StorageFullness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Transfer\AddTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Transfer\DeleteTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Process\Transfer\EditTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
